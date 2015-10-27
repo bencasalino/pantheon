@@ -1,0 +1,4 @@
+name = Custom Follow
+description = Custom Follow
+package = Custom
+core = 7.x
